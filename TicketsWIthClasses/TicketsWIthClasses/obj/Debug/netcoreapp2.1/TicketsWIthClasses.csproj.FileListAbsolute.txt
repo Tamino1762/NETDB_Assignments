@@ -1,0 +1,10 @@
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\bin\Debug\netcoreapp2.1\TicketsWIthClasses.deps.json
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\bin\Debug\netcoreapp2.1\TicketsWIthClasses.runtimeconfig.json
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\bin\Debug\netcoreapp2.1\TicketsWIthClasses.runtimeconfig.dev.json
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\bin\Debug\netcoreapp2.1\TicketsWIthClasses.dll
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\bin\Debug\netcoreapp2.1\TicketsWIthClasses.pdb
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\obj\Debug\netcoreapp2.1\TicketsWIthClasses.csprojAssemblyReference.cache
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\obj\Debug\netcoreapp2.1\TicketsWIthClasses.AssemblyInfoInputs.cache
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\obj\Debug\netcoreapp2.1\TicketsWIthClasses.AssemblyInfo.cs
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\obj\Debug\netcoreapp2.1\TicketsWIthClasses.dll
+D:\School\Net\TicketsWIthClasses\TicketsWIthClasses\obj\Debug\netcoreapp2.1\TicketsWIthClasses.pdb
